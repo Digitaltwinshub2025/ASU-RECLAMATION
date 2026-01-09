@@ -51,8 +51,8 @@ git clone https://github.com/your-username/asu-reclamation.git
 # Install dependencies
 npm install
 
-# Run locally
-npm start
+**# Run locally
+**npm start
 (Customize these instructions if your project has different tools or setup steps.)
 
 Usage
